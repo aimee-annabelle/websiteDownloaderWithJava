@@ -5,7 +5,7 @@
 <body>
 <%@ include file="components/atoms/navbar.jsp" %>
 <div class="mt-5">
-    Welcome to Kalpix LTD.
+    Welcome to Kalpix LTD website downloader.
 </div>
 <%@ include file="components/layout/page-footer.jsp" %>
 </body>

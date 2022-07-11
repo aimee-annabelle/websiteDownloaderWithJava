@@ -18,7 +18,7 @@
 
 <form class="mt-5 col-sm-4" style="margin: 0 auto" method="post" action="/websites/crawl">
   <div class="form-group">
-    <label for="url">Webpage Url</label>
+    <label for="url">Input Url</label>
     <input required type="text" class="form-control" name="url" id="url" placeholder="Enter Webpage Url">
   </div>
   <button type="submit" class="btn btn-primary mt-4">Download</button>

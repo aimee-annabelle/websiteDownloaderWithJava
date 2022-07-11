@@ -1,14 +1,14 @@
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="/">Kalpix LTD</a>
+            <a class="navbar-brand" href="/">Kalpix LTD Website downloade</a>
         </div>
         <ul class="nav navbar-nav">
             <li class="nav-link"><a href="/auth/dashboard">Dashboard</a></li>
             <li class="nav-link"><a href="/websites/list">Websites</a></li>
             <li class="nav-link"><a href="/links/list">Links</a></li>
         </ul>
-        <button class="btn btn-danger navbar-btn" onclick="window.location = '/websites/crawl'">Download</button>
+        <button class="btn btn-primary navbar-btn" onclick="window.location = '/websites/crawl'">Download</button>
     </div>
 
 <%--    change active when pathname from window location is equal to route--%>
