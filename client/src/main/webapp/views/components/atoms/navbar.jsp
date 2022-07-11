@@ -1,7 +1,7 @@
-<nav class="navbar navbar-inverse">
+<nav class="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="/">Kalpix LTD Website downloade</a>
+            <a class="navbar-brand" href="/">KLTD</a>
         </div>
         <ul class="nav navbar-nav">
             <li class="nav-link"><a href="/auth/dashboard">Dashboard</a></li>
